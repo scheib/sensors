@@ -87,7 +87,7 @@ including using it in conjunction with `requestAnimationFrame`.
 
 The scope of this specification is currently limited
 to specifying primitives
-which enable expose data from local sensors.
+that enable exposing data from local sensors.
 
 Exposing remote sensors
 or sensors found on personal area networks (e.g. Bluetooth)
@@ -155,7 +155,7 @@ the default [=sensor=] is chosen.
     </pre>
 </div>
 
-Note: extension to this specification may choose not to define a default sensor
+Note: extensions to this specification may choose not to define a default sensor
 when doing so wouldn't make sense.
 For example, it might be difficult to agree on an obvious default [=sensor=] for
 proximity [=sensors=].
